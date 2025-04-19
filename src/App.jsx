@@ -1,9 +1,10 @@
 import React from 'react'
+import Navigation from './Navigation/Navigation'
 
 const App = () => {
   return (
     <div>
-      App
+      <Navigation />
     </div>
   )
 }

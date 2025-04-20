@@ -1,16 +1,17 @@
-import React from 'react'
-import Navigation from './Navigation/Navigation'
-import Products from './Products/Products'
-import Recommended from './Recommended/Recommended'
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import SignIn from './pages/SignIn';
+import SignUp from './pages/SignUp';
 
-const App = () => {
+function App() {
   return (
-    <>
-      <Navigation />
-      <Products />
-      <Recommended />
-    </>
-  )
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/signin" element={<SignIn />} />
+      <Route path="/signup" element={<SignUp />} />
+    </Routes>
+  );
 }
 
-export default App
+export default App;

@@ -1,283 +1,134 @@
 [
-    {
-      "img": "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
-      "title": "Nike Air Monarch IV",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "white",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
-      "title": "Nike Air Vapormax Plus",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "red",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
-      "title": "Nike Waffle One Sneaker",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "green",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
-      "title": "Nike Running Shoe",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Adidas",
-      "color": "black",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/41M54ztS6IL._AC_SY625._SX._UX._SY._UY_.jpg",
-      "title": "Flat Slip On Pumps",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Vans",
-      "color": "green",
-      "category": "flats"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71zKuNICJAL._AC_UX625_.jpg",
-      "title": "Knit Ballet Flat",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Adidas",
-      "color": "black",
-      "category": "flats"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
-      "title": "Loafer Flats",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Vans",
-      "color": "white",
-      "category": "flats"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71VaQ+V6XnL._AC_UY695_.jpg",
-      "title": "Nike Zoom Freak",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "green",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
-      "title": "Nike Men's Sneaker",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Adidas",
-      "color": "blue",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
-      "title": "PUMA BLACK-OCE",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Puma",
-      "color": "green",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71E75yRwCDL._AC_UY575_.jpg",
-      "title": "Pacer Future Sneaker",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Puma",
-      "color": "red",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71jeoX0rMBL._AC_UX575_.jpg",
-      "title": "Unisex-Adult Super",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Puma",
-      "color": "black",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
-      "title": "Roma Basic Sneaker",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Puma",
-      "color": "white",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/7128-af7joL._AC_UY575_.jpg",
-      "title": "Pacer Future Doubleknit",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Puma",
-      "color": "black",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
-      "title": "Fusion Evo Golf Shoe",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "100",
-      "company": "Puma",
-      "color": "green",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/719gdz8lsTS._AC_UX575_.jpg",
-      "title": "Rainbow Chex Skate",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "100",
-      "company": "Vans",
-      "color": "red",
-      "category": "flats"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
-      "title": "Low-Top Trainers",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "100",
-      "company": "Vans",
-      "color": "white",
-      "category": "sandals"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71pf7VFs9CL._AC_UX575_.jpg",
-      "title": "Vans Unisex Low-Top",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "100",
-      "company": "Vans",
-      "color": "blue",
-      "category": "sandals"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61N4GyWcHPL._AC_UY575_.jpg",
-      "title": "Classic Bandana Sneakers",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Nike",
-      "color": "black",
-      "category": "sandals"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61bncQ44yML._AC_UX695_.jpg",
-      "title": "Chunky High Heel",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Vans",
-      "color": "black",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71czu7WgGuL._AC_UY695_.jpg",
-      "title": "Slip On Stiletto High Heel",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "100",
-      "company": "puma",
-      "color": "black",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61men05KRxL._AC_UY625_.jpg",
-      "title": "DREAM PAIRS Court Shoes",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Nike",
-      "color": "red",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
-      "title": "Nike Air Vapormax Plus",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "red",
-      "category": "sneakers"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
-      "title": "Low Mid Block Heels",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "200",
-      "company": "Nike",
-      "color": "black",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/616sA5XUKtL._AC_UY675_.jpg",
-      "title": "Chunky High Heel",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Adidas",
-      "color": "black",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71h5+MbEK7L._AC_UY625_.jpg",
-      "title": "Amore Fashion Stilettos",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "150",
-      "company": "Adidas",
-      "color": "white",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/61uw5RDxKQL._AC_UY625_.jpg",
-      "title": "Bridal Sandals Glitter",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Adidas",
-      "color": "black",
-      "category": "heels"
-    },
-    {
-      "img": "https://m.media-amazon.com/images/I/71yhoZP0l6L._AC_UY695_.jpg",
-      "title": "Wedding Prom Bridal",
-      "reviews": "(123 reviews)",
-      "prevPrice": "$140,00",
-      "newPrice": "50",
-      "company": "Adidas",
-      "color": "black",
-      "category": "flats"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Wireless Earbuds Pro",
+    "description": "High-quality wireless earbuds with noise cancellation and long battery life. Perfect for music lovers and professionals on the go.",
+    "price": 129.99,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch X1",
+    "description": "Advanced smartwatch with health tracking, notifications, and a sleek design. Stay connected and monitor your fitness goals.",
+    "price": 199.99,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-02-10"
+  },
+  {
+    "id": 3,
+    "name": "Ultra HD 4K Action Camera",
+    "description": "Capture your adventures in stunning 4K resolution. Waterproof, shockproof, and ready for any challenge.",
+    "price": 249.99,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-03-05"
+  },
+  {
+    "id": 4,
+    "name": "Portable Power Bank 20000mAh",
+    "description": "High-capacity power bank with fast charging capabilities. Never run out of battery on your devices again.",
+    "price": 49.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1624434207284-727cf0e6ea8e?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-01-20"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Headset Pro",
+    "description": "Immersive gaming headset with surround sound, noise-cancelling microphone, and RGB lighting.",
+    "price": 89.99,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-02-15"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker Waterproof",
+    "description": "Portable Bluetooth speaker with exceptional sound quality and waterproof design for outdoor adventures.",
+    "price": 79.99,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-03-10"
+  },
+  {
+    "id": 7,
+    "name": "Smartphone Gimbal Stabilizer",
+    "description": "Create professional-looking videos with this 3-axis gimbal stabilizer for smartphones.",
+    "price": 119.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-01-25"
+  },
+  {
+    "id": 8,
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek and minimalist design.",
+    "price": 29.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1726065235173-46a7690366b4?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-02-20"
+  },
+  {
+    "id": 9,
+    "name": "Smart Home Hub",
+    "description": "Control all your smart home devices from one central hub. Compatible with most popular smart home products.",
+    "price": 149.99,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "id": 10,
+    "name": "Mechanical Gaming Keyboard",
+    "description": "Responsive mechanical keyboard with customizable RGB lighting and programmable keys for the ultimate gaming experience.",
+    "price": 109.99,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1657731739951-522dd1074640?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false,
+    "inStock": true,
+    "dateAdded": "2023-01-30"
+  },
+  {
+    "id": 11,
+    "name": "VR Headset Pro",
+    "description": "Immersive virtual reality experience with high-resolution displays and precise motion tracking.",
+    "price": 299.99,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-02-25"
+  },
+  {
+    "id": 12,
+    "name": "Drone with 4K Camera",
+    "description": "Capture stunning aerial footage with this easy-to-fly drone featuring a stabilized 4K camera.",
+    "price": 399.99,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "inStock": true,
+    "dateAdded": "2023-03-20"
+  }
+]

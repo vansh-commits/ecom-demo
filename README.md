@@ -51,10 +51,15 @@ Follow these instructions to set up and run the project locally.
 
 ## 📸 Some Previews
 
-    ![Home Page](/./Screenshots/signup.png)
-    ![signin Page](./Screenshots/signin.png)
-    ![signup Page](./Screenshots/home.png)
-    ![cart Page](./Screenshots/cart.png)
+1. Home Page
+
+![Home Page](/./Screenshots/signup.png)
+2. signin page
+![signin Page](./Screenshots/signin.png)
+3. signup page
+![signup Page](./Screenshots/home.png)
+4. cart page
+![cart Page](./Screenshots/cart.png)
 
 
 

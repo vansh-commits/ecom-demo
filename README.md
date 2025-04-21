@@ -51,13 +51,13 @@ Follow these instructions to set up and run the project locally.
 
 ## 📸 Some Previews
 
-1. Home Page
+1. signup Page
 
-![Home Page](/./Screenshots/signup.png)
+![signup Page](/./Screenshots/signup.png)
 2. signin page
 ![signin Page](./Screenshots/signin.png)
-3. signup page
-![signup Page](./Screenshots/home.png)
+3. home page
+![home Page](./Screenshots/home.png)
 4. cart page
 ![cart Page](./Screenshots/cart.png)
 

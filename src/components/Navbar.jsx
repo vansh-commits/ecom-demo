@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import { useCart } from "../contexts/CartContext.jsx"
+import { useCart } from "../contexts/CartProvider.jsx"
 import { useAuth } from "../contexts/AuthContext.jsx"
 
 function Navbar() {

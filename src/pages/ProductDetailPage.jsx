@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { useParams, Link } from "react-router-dom"
-import { useCart } from "../contexts/CartContext.jsx"
+import { useCart } from "../contexts/CartProvider.jsx"
 import useFetchProducts from "../hooks/useFetchProducts.jsx"
 
 function ProductDetailPage() {

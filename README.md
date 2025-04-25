@@ -2,7 +2,7 @@
 
 **Live Site:** [https://ecom-demo-alpha.vercel.app](https://ecom-demo-alpha.vercel.app)
 
-**Live Site:** [d2x26wbm9n196p.cloudfront.net](d2x26wbm9n196p.cloudfront.net)
+**Live Site:** [https://d2x26wbm9n196p.cloudfront.net/](https://d2x26wbm9n196p.cloudfront.net/)
 
 TechDekho is a responsive e-commerce frontend built with **React**, **Tailwind CSS**, and **JavaScript**. It features modern UI components, product display, and smooth navigation—designed as a demo for modern e-commerce layouts.
 
